@@ -4,7 +4,7 @@ const donationSection = document.getElementById('donation-section');
 const historySection = document.getElementById('historySection');
 
 const donationCauses = [
-  'Famine-2024 at Feni',
+  'Famine-2024 at Noakhali',
   'Flood Relief in Feni',
   'Aid for Injured in Quota Movement'
 ];
